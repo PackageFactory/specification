@@ -7,7 +7,7 @@ The specification pattern is a way to express business rules in a domain model u
 ## Installation
 
 ```
-composer require --dev packagefactory/specification
+composer require packagefactory/specification
 ```
 
 ## Usage
