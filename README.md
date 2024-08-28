@@ -1,3 +1,7 @@
+> [!NOTE]
+> This repository is archived, but the project is not. Development continues over here:
+> https://codeberg.org/PackageFactory/specification
+
 # PackageFactory.Specification
 
 > Implementation of the Specification pattern for PHP
